@@ -14,9 +14,9 @@
 --------------------------------------------------------------*/
 /* Fonts */
 :root {
-  --default-font: "Mali";
-  --heading-font: "Mali";
-  --nav-font: "Mali";
+  --default-font: "K2D";
+  --heading-font: "K2D";
+  --nav-font: "K2D";
 }
 
 /* Global Colors - The following color variables are used throughout the website. Updating them here will change the color scheme of the entire website */
