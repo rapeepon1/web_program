@@ -14,9 +14,9 @@
 --------------------------------------------------------------*/
 /* Fonts */
 :root {
-  --default-font: "Mali",  sans-serif;
-  --heading-font: "Mali",  sans-serif;
-  --nav-font: "Mali",  sans-serif;
+  --default-font: "Mali";
+  --heading-font: "Mali";
+  --nav-font: "Mali";
 }
 
 /* Global Colors - The following color variables are used throughout the website. Updating them here will change the color scheme of the entire website */
